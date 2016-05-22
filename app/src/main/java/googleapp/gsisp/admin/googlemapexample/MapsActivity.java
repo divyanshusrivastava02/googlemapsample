@@ -15,6 +15,7 @@ public class MapsActivity extends FragmentActivity implements OnMapClickListener
 
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
 
+    // THIS IS A TEST COMMIT >>>>>>>>>
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
